@@ -94,6 +94,9 @@ Recognizing and standardizing design properties ensures consistency across the p
 - **Booking Form:** Simple, clean input form for checkout.
 
 ---
+## Team Roles
+- Hamza farissi(full stack dev)
+
 
 ### Next Steps:
 - Set up the frontend structure with reusable components.
